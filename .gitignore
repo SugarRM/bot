@@ -1,3 +1,6 @@
+git add requirements.txt
+git commit -m "Add aiogram dependency"
+git push
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
